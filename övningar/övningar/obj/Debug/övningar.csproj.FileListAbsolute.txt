@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\övningar\övningar\bin\Debug\övningar.exe.config
+C:\Users\zirko\source\repos\övningar\övningar\bin\Debug\övningar.exe
+C:\Users\zirko\source\repos\övningar\övningar\bin\Debug\övningar.pdb
+C:\Users\zirko\source\repos\övningar\övningar\obj\Debug\övningar.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\övningar\övningar\obj\Debug\övningar.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\övningar\övningar\obj\Debug\övningar.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\övningar\övningar\obj\Debug\övningar.exe
+C:\Users\zirko\source\repos\övningar\övningar\obj\Debug\övningar.pdb
